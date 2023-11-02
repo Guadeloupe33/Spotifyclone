@@ -42,6 +42,6 @@
 	"SC_REDIS_HOST": "Redis Host URI without Port",
 	"SC_REDIS_AUTH": "Redis Auth",
 
-	"ENVIRONMENT": "development",
+	"ENVIRONMENT": "production",
 	"DEPLOYMENT": "local"
 }
